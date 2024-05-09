@@ -101,3 +101,6 @@ void loop()
 ![Smooth Fulffy-Krunk (1)](https://github.com/chandru0006r/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/99141707/a429716f-fdaa-485b-9406-44b88fc535c1)
 ![Smooth Fulffy-Krunk](https://github.com/chandru0006r/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/99141707/4b25fb55-aad5-44cc-af7a-5cfc7b3c812a)
 
+
+## Result :
+ Thus the interface a digital input (push button) and blink and LED upon activation is created succesfully.
